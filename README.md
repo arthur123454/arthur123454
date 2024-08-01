@@ -1,16 +1,15 @@
-## Hi there 👋
+ ## Boas vindas ao Meu Perfil 💚
 
-<!--
-**arthur123454/arthur123454** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Meu Nome é Paulo Arthur
 
-Here are some ideas to get you started:
+ - Estou estudando do Alura 👨‍💻
+ - Estou me densenvolvendo na linguagem javascript ✨
+ - Ultilizo esse espaço para compartilhamento do meu desenvolvimento
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ## Voçe pode entra em contato comigo 📲
+  Email: 00001233422595SPS@al.educacao.sp.gov.br 
+
+  ![](https://media1.tenor.com/m/aPgTU-Z9j1MAAAAd/funny-dogs-cute.gif)
+ 
+ 
+ 
